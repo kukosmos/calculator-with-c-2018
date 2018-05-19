@@ -1,5 +1,3 @@
-import os
-import fnmatch
 import sys
 import subprocess
 
