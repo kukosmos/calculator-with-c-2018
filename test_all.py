@@ -19,10 +19,9 @@ def gen_testcases (file):
         line = f.readline ()
         if not line:
             break
-        line = line.strip ()
-        tup = line.split (' => ')
+        tup = line.split ('=>')
         if len (tup) == 2:
-            testcase = (tup[0], tup[1])
+            testcase = (tup[0].strip (), tup[1].strip ())
             result.append (testcase)
         else:
             print ('testcase parsing error')
@@ -68,4 +67,7 @@ def main():
     subprocess.Popen (remove_command, shell = True)
 
 if __name__ == '__main__':
-    main ()
+    if len (sys.argv) != 1:
+        print ("Usage: python test_all.py")
+    else:
+        main ()
