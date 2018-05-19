@@ -24,7 +24,6 @@ def execute (src, testcases):
     cp = subprocess.Popen (complile_command, stdout = subprocess.PIPE, stderr = subprocess.PIPE, shell = True)
     out, err = cp.communicate ()
     if err:
-        print (complile_command)    
         print ('compile error')
         return False
     for (testcase, result) in testcases:
