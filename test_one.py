@@ -27,12 +27,12 @@ def execute (src, testcases):
     for (testcase, result) in testcases:
         run_command = './run'
         rp = subprocess.Popen (run_command, stdout = subprocess.PIPE, stderr = subprocess.PIPE, stdin = subprocess.PIPE, shell = True)
-        out, err = rp.communicate (input = testcase + '\n')
+        out, err = rp.communicate (input = (testcase + '\n').encode ())
         if err:
             print ('error while running')
             return False
         else:
-            out = out.strip ()
+            out = out.decode ().strip ()
             if result == out:
                 pass
             else:
