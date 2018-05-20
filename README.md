@@ -8,7 +8,7 @@ input => output
 ```
 
 ## Testing
-Linux 또는 Mac 환경에서
+Linux 또는 Mac 환경에서 (python version >= 3.6)
 ```
 $ python test_all.py
 ```
