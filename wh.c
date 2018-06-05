@@ -1,3 +1,5 @@
+#define _CRT_SECURE_NO_WARNINGS
+
 #include <stdio.h>
 
 typedef struct stackNode {
@@ -10,8 +12,9 @@ main() {
 	char input[1000];
 	int i;
 
-	printf("Enter a line of text: ");
-	gets_s(input, 1000);
+	//printf("Enter a line of text: ");
+	//gets_s(input, 1000);
+	fgets(input, 1000, stdin);
 	
 	StackNodePtr topPtr = NULL;
 	for(i=0; input[i]; i++) {
@@ -25,7 +28,7 @@ main() {
 		}
 	}
 
-	printf("\nThe reversed line is: ");
+	//printf("\nThe reversed line is: ");
 	for (int j = i; j > 0; j--) {
 		StackNodePtr tempPtr;
 		tempPtr = topPtr;
@@ -35,5 +38,5 @@ main() {
 	}
 	printf("\n");
 
-	system("pause");
+	//system("pause");
 }
