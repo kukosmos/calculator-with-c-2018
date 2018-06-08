@@ -36,7 +36,7 @@ def gen_testcases(lec, test):
         if fnmatch.fnmatch(line, 'input: *'):
             input = line.strip()[7:]
         elif fnmatch.fnmatch(line, 'output: *'):
-            output = line.strip()[8:]
+            output = line.replace('\\n', '\n').strip()[8:]
         else:
             print('parsing error: ' + lec + '/solution.list')
             sys.exit(0)
@@ -79,4 +79,4 @@ def execute(src, testcases):
 
 def remove_target():
     remove_command = 'rm -f ' + target
-    subprocess.Popen(remove_command, shell = True)
+    subprocess.Popen(remove_command, shell = True).communicate()

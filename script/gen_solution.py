@@ -10,7 +10,7 @@ def main(lec, sol):
     sol_list_file = os.path.join(lec_path, 'solution.list')
     testcases = util.find_testcases(test_path)
     compile_command = 'gcc -o run -w ' + sol_file
-    subprocess.Popen(compile_command, shell = True)
+    subprocess.Popen(compile_command, shell = True).communicate()
     f = open(sol_list_file, 'w')
     for testcase in testcases:
         run_command = './run ' + testcase
@@ -18,9 +18,9 @@ def main(lec, sol):
         out, err = rp.communicate()
         out = out.decode().strip()
         input_line = 'input: ' + testcase + '\n'
-        output_line = 'output: ' + out + '\n'
+        output_line = 'output: ' + out.replace('\n', '\\n') + '\n'
+        print(out)
         f.write(input_line)
         f.write(output_line)
     f.close()
-    rm_command = 'rm -f run'
-    subprocess.Popen(rm_command, shell = True)
+    util.remove_target()

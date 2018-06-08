@@ -6,3 +6,5 @@ input: ./testcases/3.in
 output: 1 + 2 + 3
 input: ./testcases/4.in
 output: 2 * 3 - 12 / 6
+input: ./testcases/5.in
+output: 1 + 2 + 2 - 1\n+ 2 - 2
