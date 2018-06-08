@@ -1,0 +1,8 @@
+input: ./testcases/1.in
+output: 1
+input: ./testcases/2.in
+output: 1 + 2
+input: ./testcases/3.in
+output: 1 + 2 + 3
+input: ./testcases/4.in
+output: 2 * 3 - 12 / 6
