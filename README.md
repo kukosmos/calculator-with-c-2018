@@ -18,5 +18,5 @@ $ python test.py <lecture> <.c file>
 $ python test.py -h
 ```
 
-## [C Lecture 1](C_LEC1 "C Lecture 1")
+## [C Lecture 1](C_LEC1)
 파일 입출력
