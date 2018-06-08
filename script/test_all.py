@@ -1,5 +1,5 @@
 import os
-import util
+from script import util
 
 def main(lec):
     path = os.path.dirname('./')

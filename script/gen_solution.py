@@ -1,6 +1,6 @@
 import os
 import subprocess
-import util
+from script import util
 
 def main(lec, sol):
     path = os.path.dirname('./')
