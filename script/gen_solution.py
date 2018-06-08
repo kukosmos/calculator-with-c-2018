@@ -19,8 +19,8 @@ def main(lec, sol):
         out = out.decode().strip()
         input_line = 'input: ' + testcase + '\n'
         output_line = 'output: ' + out.replace('\n', '\\n') + '\n'
-        print(out)
         f.write(input_line)
         f.write(output_line)
     f.close()
     util.remove_target()
+    print('generated')

@@ -1,0 +1,10 @@
+input: ./testcases/1.in
+output: 1
+input: ./testcases/2.in
+output: 2 + 1
+input: ./testcases/3.in
+output: 3 + 2 + 1
+input: ./testcases/4.in
+output: 6 / 21 - 3 * 2
+input: ./testcases/5.in
+output: 2 - 2 +\n1 - 2 + 2 + 1
