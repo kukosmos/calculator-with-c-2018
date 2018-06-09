@@ -1,10 +1,46 @@
 input: ./testcases/1.in
 output: 1
+input: ./testcases/10.in
+output: 1 + 2 - 3 * 4 / 5 + 6
+input: ./testcases/11.in
+output: (8 + 1) * 11
+input: ./testcases/12.in
+output: (1 + 2) * 3 - 2 * (5 + 3)
+input: ./testcases/13.in
+output: (1)
+input: ./testcases/14.in
+output: ((((1))))
+input: ./testcases/15.in
+output: 7 * 6 / 5
+input: ./testcases/16.in
+output: 9.5 * 3
+input: ./testcases/17.in
+output: 7.1 * 7 / 2 + 6
+input: ./testcases/18.in
+output: (6.5 + 3.4) / 0.2
+input: ./testcases/19.in
+output: 19 * 19 * 19 * 19 * 19 * 19
 input: ./testcases/2.in
 output: 1 + 2
+input: ./testcases/20.in
+output: 19.1923 + 4.1234
+input: ./testcases/21.in
+output: 8.88 * 6.66
+input: ./testcases/22.in
+output: 3.32 / 0.17
+input: ./testcases/23.in
+output: 9.77 / 6 + 3 * 6
 input: ./testcases/3.in
 output: 1 + 2 + 3
 input: ./testcases/4.in
 output: 2 * 3 - 12 / 6
 input: ./testcases/5.in
 output: 1 + 2 + 2 - 1\n+ 2 - 2
+input: ./testcases/6.in
+output: 1 + 2 + ( 9 - 2 ) + 2 - 5
+input: ./testcases/7.in
+output: 1              + 2 - 3
+input: ./testcases/8.in
+output: 4 / 2
+input: ./testcases/9.in
+output: 8 / 3
