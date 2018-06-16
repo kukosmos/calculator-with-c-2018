@@ -22,3 +22,6 @@ $ python test.py -h
 파일 입출력
 ## [C Lecture 2](C_LEC2)
 스택을 활용하여 파일 거꾸로 출력하기
+## [C Lecture 3](C_LEC3)
+## [C Lecture 4](C_LEC4)
+## [C Lecture 5](C_LEC5)
