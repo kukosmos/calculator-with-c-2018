@@ -12,8 +12,8 @@
 1. 1 + 2
 ```
 ```
-$ ./run testcases/1.in
-2 + 1
+$ ./run testcases/2.in
+1 + 2
 ```
 
 ## 기한
