@@ -3,7 +3,7 @@ output: 1
 input: ./testcases/10.in
 output: 1 + 2 - 3 * 4 / 5 + 6
 input: ./testcases/100.in
-output: 2905 / (-2710 - (3718) - 3714) - 1566 - 3359 * 6275 + 917 - 1868
+output: (3532) / (1500 + 2906) - 2011 * (4081) + (3479 + 3618) - (557 )
 input: ./testcases/11.in
 output: (8 + 1) * 11
 input: ./testcases/12.in
@@ -15,186 +15,186 @@ output: ((((1))))
 input: ./testcases/15.in
 output: 7 * 6 / 5
 input: ./testcases/16.in
-output: 9.5 * 3
+output: 3864 / (624)
 input: ./testcases/17.in
-output: 7.1 * 7 / 2 + 6
+output: (4423 )
 input: ./testcases/18.in
-output: (6.5 + 3.4) / 0.2
+output: 4332 + 667 + (2449 / 3039 - 112 - 5) + 2390
 input: ./testcases/19.in
-output: 19 * 19 * 19 * 19 * 19 * 19
+output: (4560)
 input: ./testcases/2.in
 output: 1 + 2
 input: ./testcases/20.in
-output: 19.1923 + 4.1234
+output: (2041) * (4401)
 input: ./testcases/21.in
-output: 8.88 * 6.66
+output: (177) / (5 * (8) * (4585) - 8)
 input: ./testcases/22.in
-output: 3.32 / 0.17
+output: (4651 * 1192) + (2662) + 149 - (230) + (891 + 717)
 input: ./testcases/23.in
-output: 9.77 / 6 + 3 * 6
+output: (6 - (3) - 3521 / 2 * (404 + 1265 / 3752 ))
 input: ./testcases/24.in
-output: 388 - (-1922 / -4690 - (-6527 ))
+output: 2146 / (4819) - (1 / 4666 * 4614 * 1936 + 1218 + (1064 / (0 )))
 input: ./testcases/25.in
-output: (1237) * 3147 / (-9245) + -2120 * (-4631)
+output: (1261) + (3145 - (1473) + 782 * (4892) * (42) )
 input: ./testcases/26.in
-output: (-135 - (-4822) + -4282 / -3833) - 1996
+output: (7)
 input: ./testcases/27.in
-output: (-5863) + 2181 + 2743 + (2680) - (-1313 + -4848)
+output: (3980 + 3039) + (4 * 2592 + 2836 - 1155) - (3075) - 2443
 input: ./testcases/28.in
-output: (1862 - 1030 + (-4674 + -898) )
+output: (2 / 4985) + (4667) - (1502) - (2036 * 1750) / (4554) - 4181 / (755) - 0
 input: ./testcases/29.in
-output: -3888 / (-9092 )
+output: 2035 * 2 * 168
 input: ./testcases/3.in
 output: 1 + 2 + 3
 input: ./testcases/30.in
-output: -4132
+output: (2948 - (3129 / 3670) - 2574 )
 input: ./testcases/31.in
-output: (4408 * -3014 / (-927) - 3789 * (-2098 ))
+output: 2 + 7 + (4541) - (3730 - (0) - (347) - (565) )
 input: ./testcases/32.in
-output: -1163 - 5057 + (-1523) / (6285 / (-114) )
+output: 3634 / 2 + (4253) * (179 + 4814)
 input: ./testcases/33.in
-output: (-27) * -4585 * -2865 / 3977 - (1422)
+output: (4211 * (6) + 1 * (2136 - 3364 ))
 input: ./testcases/34.in
-output: 2043 * (-4221 + 1403) * (5092) / (-2472 )
+output: (22) - (1797 * 5 * (4 / (5) - 1418) - (451 - 145 - (467 * (901 ))))
 input: ./testcases/35.in
-output: (-1241) + (-7066) + (-2252 + 3346) * (285 / 2773)
+output: (1 )
 input: ./testcases/36.in
-output: (6297) - (6950 + (335) - -1145) / 3771 - -3448
+output: (3237) * (4964 - (0 - (859 - (6) + 1 + (1441 ))))
 input: ./testcases/37.in
-output: (3251 / 589)
+output: (9) * 5 * 3606
 input: ./testcases/38.in
-output: (-3922 - 5012) / (-452) + (-3120 - (-5709 ))
+output: (3612 + (2588) - (3482 * (621) ))
 input: ./testcases/39.in
-output: (-1259) * (755 / (-2169 - -1034 ))
+output: 2990 - (9) - (1354 - (0 / 4424) )
 input: ./testcases/4.in
 output: 2 * 3 - 12 / 6
 input: ./testcases/40.in
-output: (-1459) * 838 + (2530 + -4549) + (6288 )
+output: (4929 - 4721) - 3608 * (7 + (1369 ))
 input: ./testcases/41.in
-output: 1205 / (4622 - 503 )
+output: 8 + (1282 * (311 - 4) - 3760 + (2) * 694)
 input: ./testcases/42.in
-output: (352 - -226 )
+output: 3660 + (8) - 1773 / 1672 - (221 - 3320) * 651 + 3740 * 6
 input: ./testcases/43.in
-output: (-93 * (2620 + (57) * 2848) + (-4261) * -2172 * -7835) + (-1017) + (-4640 + 16 )
+output: (0 - (7 * 0) + 2481 * 4 - 1141 / (3778 / (4612) - (2214) ))
 input: ./testcases/44.in
-output: 2961 - 3412 * (-1931) + -1341 - 5994 + (-3264) * -3921 * (3506)
+output: 3974 / 4408 + 3
 input: ./testcases/45.in
-output: -2839
+output: (384) + (514) + (3 * 0) - 984 + 4940 + (3573 )
 input: ./testcases/46.in
-output: 2148
+output: (916) * 7 - (7 - (1212 * (2414) ))
 input: ./testcases/47.in
-output: (7480 * (180 * (2269) / (-3787 - (-3244) * -220) - 5142 - (-1054) ))
+output: (1252 - (2 ))
 input: ./testcases/48.in
-output: (1488) + (6816 * (224 * (-1758 )))
+output: (66) * (0 - (1441) + (1137) + (936) - (4989 / 2610 ))
 input: ./testcases/49.in
-output: (5089) - (3354 + 4190 / 960 - (328 * (4635) ))
+output: 2730 * 6 + 4313 / 2724
 input: ./testcases/5.in
-output: 1 + 2 + 2 - 1\n+ 2 - 2
+output: 1 + 2 + 2 - 1\n+ 2 - 2
 input: ./testcases/50.in
-output: -2563
+output: (2675) * (2607) * (3984 / 5) * 4447 + 839 - 6 + (9)
 input: ./testcases/51.in
-output: -1493 + 153 + (8039 - (2187) * (3162) )
+output: 2773
 input: ./testcases/52.in
-output: 4207 * -7196 + (5268 / -1630 / 5227 + (-4503 - (76) * (-605) * 3335) + -3998 )
+output: 387 * (3520) / 4696 - 1013
 input: ./testcases/53.in
-output: -6123 / (-3280 * (-2558) - -7166) - 3968 + 4897
+output: (1527) + 589 / (574) + 3760 + 8 / (471) + (3949 - (812) * (4) + 4320 )
 input: ./testcases/54.in
-output: (-2343) * 7929 / (2289) - 4541 * (4854) * (-5261) / (6822) * (-4979 )
+output: 1287 + 1783 + 6 - 1235 - (4689) + (346 / 1148 / 3798)
 input: ./testcases/55.in
-output: (-2065) - (-1438 - (1869 - (4426) - 1267 - -5731) + -653 / 308 * -5521) + (-9459)
+output: (8) / (87) + 1 - (1274) / 1617 * 3 / (676)
 input: ./testcases/56.in
-output: 1319 + -1111 * (-717) / (-6854 )
+output: 9 / (1202 - 2239 * 5 )
 input: ./testcases/57.in
-output: (376)
+output: (19 / (1146) - 249 / (985) / 1609) * (168 * (2119) * 3223) / 3077 - (6 )
 input: ./testcases/58.in
-output: (1247 + (3999) - -1186) / (-3860) + (-6072 * 8477 + -1863) + 2095
+output: 420 + 2678 + 4088 * 2629 - 7 - (781 / (2) - 4968) / 4045
 input: ./testcases/59.in
-output: 3998 - (3967 + (-357) + -8183 * (-317) * -3044 - 4186 )
+output: (13) + (4673 + 4485 / (4 * (4300) ))
 input: ./testcases/6.in
 output: 1 + 2 + ( 9 - 2 ) + 2 - 5
 input: ./testcases/60.in
-output: -7459 / 4013 * 3664 / (-2217) - -2285 - (334) * (1789 * (551) + (1204 + -6410) )
+output: (1116 + 412) + 1761 - (281 / (6 - (1 )))
 input: ./testcases/61.in
-output: -1261 - (-4016 / (1835 / (4804) / (1646) ))
+output: 2154 * 2
 input: ./testcases/62.in
-output: (1701 + (-192 / (-2364) - (-3154 - -2420 + -4633) - (4337 * (-1232 - -353 ))))
+output: 1384 - 3930 / 1076 * 6 / 4382 * 9 + 3623
 input: ./testcases/63.in
-output: (-135 - (1208 / -5435) + 6585)
+output: (2935) + (210 * 4522 * 2888) * 2324 + 2097 + 7
 input: ./testcases/64.in
-output: (-693 / -1376 + (4617) + -7691 * 5685) + (-958) - 2354 + -3107
+output: (1896) / (5) * (2008) * 3
 input: ./testcases/65.in
-output: (318) / (-3305) / -5245 + -3005
+output: 2053 + (193) - (1334) * 2545 / 9 * (1) * (4 )
 input: ./testcases/66.in
-output: (676)
+output: (119 * (3143 ))
 input: ./testcases/67.in
-output: (-2429 + (3061 - -3889) * -6630 / -2110)
+output: (8) * 4 * 8 * 1 - 1 / 4 + 301
 input: ./testcases/68.in
-output: -3743 - (-376) - (3317) * (-2169 / -1735) - -8598 - (1182) - (-4332 * 2715)
+output: 4492 / 93 + (6) - 1
 input: ./testcases/69.in
-output: 1482 / (4415) * -220 + 767 * (-124 + 2891 / 6873) + (39) + 2239
+output: 2329 - 1277 + (4373 / 0) + 2509 + 2671
 input: ./testcases/7.in
 output: 1              + 2 - 3
 input: ./testcases/70.in
-output: (2594) / (-6593 - -623 + 322) + -3048 + (-5381)
+output: 1788 / (8 * 6 * (68 * (1551) - 846 + (3426 - 4318 + (2563) + (6) )))
 input: ./testcases/71.in
-output: 8032 / 1137
+output: 2984 / (3187 )
 input: ./testcases/72.in
-output: (879 + (6237) / -5425 + 1290)
+output: (2 + (4698 + 3 - 3094 - 1985 / 4845) )
 input: ./testcases/73.in
-output: 8088 * (704) + (1285) / (1395) + 6170 + (6923 / 106 + 1080) / (-5154 )
+output: 3326 - 6 / (1931) / 2 * (1 / 3609 / (3254) )
 input: ./testcases/74.in
-output: (744 * 6220 )
+output: 3924 * 4981 - (68 - 4) - (804) + 3035 - 1381 * (2810)
 input: ./testcases/75.in
-output: -630 - 9521 / (591 - 6245) - -2364 - (1594) * -363 / (-3071) * (3950)
+output: (2407 * 3 + (6 ))
 input: ./testcases/76.in
-output: -5188 + 4689 + -1642 * -3935 / (4484)
+output: 1076 + (250 - (1002) * 655) / (3575) + 3020 + 9 * 3703 * (6 + 4197 )
 input: ./testcases/77.in
-output: (-1603 + 93) / -164 + (5536)
+output: (2151) - 835 - 3173 * (4002) * (196 / 627 / (1203 ))
 input: ./testcases/78.in
-output: (-2489) - (-3776) * (3430) * 1318 - 1898 / -1187 - (-7963 * -556) + (-3874) / -1797
+output: (1074) + (4030 - (2153) )
 input: ./testcases/79.in
-output: (-4367 - (-96) + (-1368) / (7531 / (5870) + 7322) + (-8419 + 3207 + 2604 ))
+output: (3249) - 401 + (3) + (2171) + 869 / (1740 * (0 ))
 input: ./testcases/8.in
 output: 4 / 2
 input: ./testcases/80.in
-output: (-6931) * (-618) / -8996
+output: (1 * 1697) / (2614) + (1618 * (1957 + (4450) + 559) )
 input: ./testcases/81.in
-output: 584 * (5440) - -672 / 2998
+output: 9 / 3214 - 1193 + 4588 * (1663) / 2125 * (4647 + 75) + 2622 - (5)
 input: ./testcases/82.in
-output: -1545 / -2347 - (3060) + 5219 + -5907 * -1054
+output: (421 + 3979) / 1710 - 3953 * (1917)
 input: ./testcases/83.in
-output: (-4890 / (2239 - -3480) - (3850 - -1083 * 2906) - -4177 * 4145 - (-767 - 2330) )
+output: 3714 - (2127 + (2153) - (2892 - (3555) * 2507) )
 input: ./testcases/84.in
-output: -347 * (3288)
+output: 4032 + (4077 - (4058 + (2881 + (2770) )))
 input: ./testcases/85.in
-output: (-9127 * 3737) - (5362) - 2742 * (5728 + (2477) * -1165) * (-1355 - -3921)
+output: (2201) - (841) + (4) - (180) / 4623 - (4170) - (1 - 2) - 3110 + (3 )
 input: ./testcases/86.in
-output: (-2380) * -4933 / 8150 * 3724 / -2098 - (-1750) - -2691 / 1864
+output: (605) * 187 / 3
 input: ./testcases/87.in
-output: (3730 )
+output: 4 / 1796 - 3093 / 1064 + (3825 / (3) - (4619 / (4891) ))
 input: ./testcases/88.in
-output: (1437 )
+output: (4301)
 input: ./testcases/89.in
-output: -7090 / (3322 - 5570) - (7793) / 300 / (2422 / 7171 * -1586)
+output: 1457 - (6) / 2 / 2 / (1087) - (3278) / (9 - (8 - 0) / 7 )
 input: ./testcases/9.in
 output: 8 / 3
 input: ./testcases/90.in
-output: 1879 + (-9187 )
+output: (3822 + 1869 - 8) + 6 + (2131) * 2525 + 3118
 input: ./testcases/91.in
-output: -4074 + 3593 - (135 - -7064 )
+output: 3115 / (3684)
 input: ./testcases/92.in
-output: (-5970 + (4053 / 1029 - 489 + 7693) / (-5700) + (-974 * 2820) - 508) - -1210
+output: 2497 + 3157 * 3312 / 2673 + 3170 / (7 / 3554 - (2) )
 input: ./testcases/93.in
-output: (2428 * -625 * -4675 - -2736) / (-2912 / (-52) )
+output: 6 / 1295 / 672 / 1837 - (3627) + (3418 + 6) * (0 )
 input: ./testcases/94.in
-output: 3180 / (-5335) - -3057 / (-90) / 2474
+output: 1 / 8 * (136 + (3732 / (3403) ))
 input: ./testcases/95.in
-output: 969 - 4638
+output: (1237 / (9 + (8) / 714 ))
 input: ./testcases/96.in
-output: (-6907) / -1804 / -1910 * -2421 + -1777 + 4793
+output: (9) + 2 - (6) / (7)
 input: ./testcases/97.in
-output: 3949 + (-561) - -777 / 2485 - -2325 / (-1106) * (1977 / (-5955) * 1950) - 6412
+output: (293 - 6) - 828 + (268) * 4 + 6 / 3453 / 1956 + 7
 input: ./testcases/98.in
-output: (-5918)
+output: 1650
 input: ./testcases/99.in
-output: -2631 + (-3516) * (5374 * (6352) / -4087 * (6964 + (-907) - (2812) + 468) / -92 )
+output: (9) * 2489 + (2) - 4590 - 3 / 0 - (1782 + (1725 / (4) ))
