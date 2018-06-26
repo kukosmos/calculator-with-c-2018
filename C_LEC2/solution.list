@@ -33,7 +33,7 @@ output: )717 + 198( + )032( - 941 + )2662( + )2911 * 1564(
 input: ./testcases/23.in
 output: )) 2573 / 5621 + 404( * 2 / 1253 - )3( - 6(
 input: ./testcases/24.in
-output: ))) 0( / 4601( + 8121 + 6391 * 4164 * 6664 / 1( - )9184( / 6412
+output: ))) 2( / 4601( + 8121 + 6391 * 4164 * 6664 / 1( - )9184( / 6412
 input: ./testcases/25.in
 output: ) )24( * )2984( * 287 + )3741( - 5413( + )1621(
 input: ./testcases/26.in
@@ -89,7 +89,7 @@ output: )) 0162 / 9894( - )639( + )7311( + )1441( - 0( * )66(
 input: ./testcases/49.in
 output: 4272 / 3134 + 6 * 0372
 input: ./testcases/5.in
-output: 2 - 2 +\n1 - 2 + 2 + 1
+output: 2 - 2 + 1 - 2 + 2 + 1
 input: ./testcases/50.in
 output: )9( + 6 - 938 + 7444 * )5 / 4893( * )7062( * )5762(
 input: ./testcases/51.in
@@ -197,4 +197,4 @@ output: 7 + 6591 / 3543 / 6 + 4 * )862( + 828 - )6 - 392(
 input: ./testcases/98.in
 output: 0561
 input: ./testcases/99.in
-output: )) )4( / 5271( + 2871( - 0 / 3 - 0954 - )2( + 9842 * )9(
+output: )) )4( / 5271( + 2871( - 3 / 3 - 0954 - )2( + 9842 * )9(

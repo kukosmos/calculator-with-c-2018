@@ -33,7 +33,7 @@ output: (4651 * 1192) + (2662) + 149 - (230) + (891 + 717)
 input: ./testcases/23.in
 output: (6 - (3) - 3521 / 2 * (404 + 1265 / 3752 ))
 input: ./testcases/24.in
-output: 2146 / (4819) - (1 / 4666 * 4614 * 1936 + 1218 + (1064 / (0 )))
+output: 2146 / (4819) - (1 / 4666 * 4614 * 1936 + 1218 + (1064 / (2 )))
 input: ./testcases/25.in
 output: (1261) + (3145 - (1473) + 782 * (4892) * (42) )
 input: ./testcases/26.in
@@ -89,7 +89,7 @@ output: (66) * (0 - (1441) + (1137) + (936) - (4989 / 2610 ))
 input: ./testcases/49.in
 output: 2730 * 6 + 4313 / 2724
 input: ./testcases/5.in
-output: 1 + 2 + 2 - 1\n+ 2 - 2
+output: 1 + 2 + 2 - 1 + 2 - 2
 input: ./testcases/50.in
 output: (2675) * (2607) * (3984 / 5) * 4447 + 839 - 6 + (9)
 input: ./testcases/51.in
@@ -197,4 +197,4 @@ output: (293 - 6) - 828 + (268) * 4 + 6 / 3453 / 1956 + 7
 input: ./testcases/98.in
 output: 1650
 input: ./testcases/99.in
-output: (9) * 2489 + (2) - 4590 - 3 / 0 - (1782 + (1725 / (4) ))
+output: (9) * 2489 + (2) - 4590 - 3 / 3 - (1782 + (1725 / (4) ))
