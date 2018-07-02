@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.h>
+
 #include <stdlib.h>
 #define _CRT_SECCURE_NO_WARNINGS
 #define MAX_BUF 80
