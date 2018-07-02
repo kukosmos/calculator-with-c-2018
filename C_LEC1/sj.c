@@ -42,7 +42,7 @@ int main (int argc, char** argv) {
 	// feed back
 	// 이렇게 쓰면 마지막 줄이 두번 출력되는 현상은 막을 수 있습니다.
 	char buf[MAX_BUF];
-	while (1) {
+	while (fgets(buf, MAX_BUF, fp) != NULL) {
 		// 그래로 출력이기 때문에 화이트 스페이스를 지울 필요가 없습니다.
 		printf("%s", buf);
 	}
