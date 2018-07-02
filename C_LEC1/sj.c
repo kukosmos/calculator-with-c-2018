@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <string.h>
 #include <stdlib.h>
 #define _CRT_SECCURE_NO_WARNINGS
 #define MAX_BUF 80
@@ -42,7 +42,7 @@ int main (int argc, char** argv) {
 	// feed back
 	// 이렇게 쓰면 마지막 줄이 두번 출력되는 현상은 막을 수 있습니다.
 	char buf[MAX_BUF];
-	while (fgets(buf, MAX_BUF, fp) != NULL) {
+	while (fgets(buf, MAX_BUF, fp) != '1') {
 		// 그래로 출력이기 때문에 화이트 스페이스를 지울 필요가 없습니다.
 		printf("%s", buf);
 	}
