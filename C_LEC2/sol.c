@@ -27,6 +27,7 @@ typedef struct __stack stack_t;
 
 stack_t * create_stack () {
     stack_t * this = (stack_t *) malloc (sizeof (stack_t));
+    this->top = NULL;
     return this;
 }
 
