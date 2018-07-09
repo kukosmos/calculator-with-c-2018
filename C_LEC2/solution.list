@@ -1,200 +1,200 @@
+input: ./testcases/100.in
+output: ) 755( - )8163 + 9743( + )1804( * 1102 - )6092 + 0051( / )2353(
+input: ./testcases/97.in
+output: 7 + 6591 / 3543 / 6 + 4 * )862( + 828 - )6 - 392(
+input: ./testcases/32.in
+output: )4184 + 971( * )3524( + 2 / 4363
+input: ./testcases/37.in
+output: 6063 * 5 * )9(
+input: ./testcases/35.in
+output: ) 1(
+input: ./testcases/54.in
+output: )8973 / 8411 / 643( + )9864( - 5321 - 6 + 3871 + 7821
+input: ./testcases/40.in
+output: )) 9631( + 7( * 8063 - )1274 - 9294(
+input: ./testcases/42.in
+output: 6 * 0473 + 156 * )0233 - 122( - 2761 / 3771 - )8( + 0663
+input: ./testcases/18.in
+output: 0932 + )5 - 211 - 9303 / 9442( + 766 + 2334
+input: ./testcases/29.in
+output: 861 * 2 * 5302
+input: ./testcases/22.in
+output: )717 + 198( + )032( - 941 + )2662( + )2911 * 1564(
+input: ./testcases/15.in
+output: 5 / 6 * 7
+input: ./testcases/30.in
+output: ) 4752 - )0763 / 9213( - 8492(
+input: ./testcases/36.in
+output: )))) 1441( + 1 + )6( - 958( - 0( - 4694( * )7323(
+input: ./testcases/75.in
+output: )) 6( + 3 * 7042(
+input: ./testcases/72.in
+output: ) )5484 / 5891 - 4903 - 3 + 8964( + 2(
+input: ./testcases/85.in
+output: ) 3( + 0113 - )2 - 1( - )0714( - 3264 / )081( - )4( + )148( - )1022(
+input: ./testcases/96.in
+output: )7( / )6( - 2 + )9(
+input: ./testcases/88.in
+output: )1034(
+input: ./testcases/76.in
+output: ) 7914 + 6( * 3073 * 9 + 0203 + )5753( / )556 * )2001( - 052( + 6701
+input: ./testcases/14.in
+output: ))))1((((
+input: ./testcases/52.in
+output: 3101 - 6964 / )0253( * 783
+input: ./testcases/86.in
+output: 3 / 781 * )506(
+input: ./testcases/66.in
+output: )) 3413( * 911(
+input: ./testcases/34.in
+output: )))) 109( * 764( - 541 - 154( - )8141 - )5( / 4( * 5 * 7971( - )22(
+input: ./testcases/95.in
+output: )) 417 / )8( + 9( / 7321(
+input: ./testcases/49.in
+output: 4272 / 3134 + 6 * 0372
+input: ./testcases/46.in
+output: )) )4142( * 2121( - 7( - 7 * )619(
+input: ./testcases/62.in
+output: 3263 + 9 * 2834 / 6 * 6701 / 0393 - 4831
+input: ./testcases/99.in
+output: )) )4( / 5271( + 2871( - 3 / 3 - 0954 - )2( + 9842 * )9(
+input: ./testcases/11.in
+output: 11 * )1 + 8(
+input: ./testcases/13.in
+output: )1(
+input: ./testcases/59.in
+output: )) )0034( * 4( / 5844 + 3764( + )31(
+input: ./testcases/93.in
+output: ) 0( * )6 + 8143( + )7263( - 7381 / 276 / 5921 / 6
+input: ./testcases/7.in
+output: 3 - 2 +              1
+input: ./testcases/81.in
+output: )5( - 2262 + )57 + 7464( * 5212 / )3661( * 8854 + 3911 - 4123 / 9
+input: ./testcases/3.in
+output: 3 + 2 + 1
+input: ./testcases/73.in
+output: ) )4523( / 9063 / 1( * 2 / )1391( / 6 - 6233
+input: ./testcases/23.in
+output: )) 2573 / 5621 + 404( * 2 / 1253 - )3( - 6(
+input: ./testcases/91.in
+output: )4863( / 5113
+input: ./testcases/2.in
+output: 2 + 1
+input: ./testcases/71.in
+output: ) 7813( / 4892
+input: ./testcases/69.in
+output: 1762 + 9052 + )2 / 3734( + 7721 - 9232
+input: ./testcases/79.in
+output: ))2( * 0471( / 968 + )1712( + )3( + 104 - )9423(
+input: ./testcases/25.in
+output: ) )24( * )2984( * 287 + )3741( - 5413( + )1621(
+input: ./testcases/45.in
+output: ) 3753( + 0494 + 489 - )0 * 3( + )415( + )483(
+input: ./testcases/61.in
+output: 2 * 4512
 input: ./testcases/1.in
 output: 1
 input: ./testcases/10.in
 output: 6 + 5 / 4 * 3 - 2 + 1
-input: ./testcases/100.in
-output: ) 755( - )8163 + 9743( + )1804( * 1102 - )6092 + 0051( / )2353(
-input: ./testcases/11.in
-output: 11 * )1 + 8(
-input: ./testcases/12.in
-output: )3 + 5( * 2 - 3 * )2 + 1(
-input: ./testcases/13.in
-output: )1(
-input: ./testcases/14.in
-output: ))))1((((
-input: ./testcases/15.in
-output: 5 / 6 * 7
-input: ./testcases/16.in
-output: )426( / 4683
-input: ./testcases/17.in
-output: ) 3244(
-input: ./testcases/18.in
-output: 0932 + )5 - 211 - 9303 / 9442( + 766 + 2334
-input: ./testcases/19.in
-output: )0654(
-input: ./testcases/2.in
-output: 2 + 1
-input: ./testcases/20.in
-output: )1044( * )1402(
-input: ./testcases/21.in
-output: )8 - )5854( * )8( * 5( / )771(
-input: ./testcases/22.in
-output: )717 + 198( + )032( - 941 + )2662( + )2911 * 1564(
-input: ./testcases/23.in
-output: )) 2573 / 5621 + 404( * 2 / 1253 - )3( - 6(
-input: ./testcases/24.in
-output: ))) 2( / 4601( + 8121 + 6391 * 4164 * 6664 / 1( - )9184( / 6412
-input: ./testcases/25.in
-output: ) )24( * )2984( * 287 + )3741( - 5413( + )1621(
-input: ./testcases/26.in
-output: )7(
-input: ./testcases/27.in
-output: 3442 - )5703( - )5511 - 6382 + 2952 * 4( + )9303 + 0893(
-input: ./testcases/28.in
-output: 0 - )557( / 1814 - )4554( / )0571 * 6302( - )2051( - )7664( + )5894 / 2(
-input: ./testcases/29.in
-output: 861 * 2 * 5302
-input: ./testcases/3.in
-output: 3 + 2 + 1
-input: ./testcases/30.in
-output: ) 4752 - )0763 / 9213( - 8492(
-input: ./testcases/31.in
-output: ) )565( - )743( - )0( - 0373( - )1454( + 7 + 2
-input: ./testcases/32.in
-output: )4184 + 971( * )3524( + 2 / 4363
-input: ./testcases/33.in
-output: )) 4633 - 6312( * 1 + )6( * 1124(
-input: ./testcases/34.in
-output: )))) 109( * 764( - 541 - 154( - )8141 - )5( / 4( * 5 * 7971( - )22(
-input: ./testcases/35.in
-output: ) 1(
-input: ./testcases/36.in
-output: )))) 1441( + 1 + )6( - 958( - 0( - 4694( * )7323(
-input: ./testcases/37.in
-output: 6063 * 5 * )9(
-input: ./testcases/38.in
-output: )) )126( * 2843( - )8852( + 2163(
-input: ./testcases/39.in
-output: ) )4244 / 0( - 4531( - )9( - 0992
-input: ./testcases/4.in
-output: 6 / 21 - 3 * 2
-input: ./testcases/40.in
-output: )) 9631( + 7( * 8063 - )1274 - 9294(
-input: ./testcases/41.in
-output: )496 * )2( + 0673 - )4 - 113( * 2821( + 8
-input: ./testcases/42.in
-output: 6 * 0473 + 156 * )0233 - 122( - 2761 / 3771 - )8( + 0663
-input: ./testcases/43.in
-output: )) )4122( - )2164( / 8773( / 1411 - 4 * 1842 + )0 * 7( - 0(
-input: ./testcases/44.in
-output: 3 + 8044 / 4793
-input: ./testcases/45.in
-output: ) 3753( + 0494 + 489 - )0 * 3( + )415( + )483(
-input: ./testcases/46.in
-output: )) )4142( * 2121( - 7( - 7 * )619(
-input: ./testcases/47.in
-output: )) 2( - 2521(
-input: ./testcases/48.in
-output: )) 0162 / 9894( - )639( + )7311( + )1441( - 0( * )66(
-input: ./testcases/49.in
-output: 4272 / 3134 + 6 * 0372
-input: ./testcases/5.in
-output: 2 - 2 + 1 - 2 + 2 + 1
-input: ./testcases/50.in
-output: )9( + 6 - 938 + 7444 * )5 / 4893( * )7062( * )5762(
-input: ./testcases/51.in
-output: 3772
-input: ./testcases/52.in
-output: 3101 - 6964 / )0253( * 783
-input: ./testcases/53.in
-output: ) 0234 + )4( * )218( - 9493( + )174( / 8 + 0673 + )475( / 985 + )7251(
-input: ./testcases/54.in
-output: )8973 / 8411 / 643( + )9864( - 5321 - 6 + 3871 + 7821
-input: ./testcases/55.in
-output: )676( / 3 * 7161 / )4721( - 1 + )78( / )8(
-input: ./testcases/56.in
-output: ) 5 * 9322 - 2021( / 9
-input: ./testcases/57.in
-output: ) 6( - 7703 / )3223 * )9112( * 861( * )9061 / )589( / 942 - )6411( / 91(
-input: ./testcases/58.in
-output: 5404 / )8694 - )2( / 187( - 7 - 9262 * 8804 + 8762 + 024
-input: ./testcases/59.in
-output: )) )0034( * 4( / 5844 + 3764( + )31(
-input: ./testcases/6.in
-output: 5 - 2 + ) 2 - 9 ( + 2 + 1
-input: ./testcases/60.in
-output: ))) 1( - 6( / 182( - 1671 + )214 + 6111(
-input: ./testcases/61.in
-output: 2 * 4512
-input: ./testcases/62.in
-output: 3263 + 9 * 2834 / 6 * 6701 / 0393 - 4831
-input: ./testcases/63.in
-output: 7 + 7902 + 4232 * )8882 * 2254 * 012( + )5392(
-input: ./testcases/64.in
-output: 3 * )8002( * )5( / )6981(
-input: ./testcases/65.in
-output: ) 4( * )1( * 9 / 5452 * )4331( - )391( + 3502
-input: ./testcases/66.in
-output: )) 3413( * 911(
 input: ./testcases/67.in
 output: 103 + 4 / 1 - 1 * 8 * 4 * )8(
-input: ./testcases/68.in
-output: 1 - )6( + 39 / 2944
-input: ./testcases/69.in
-output: 1762 + 9052 + )0 / 3734( + 7721 - 9232
-input: ./testcases/7.in
-output: 3 - 2 +              1
-input: ./testcases/70.in
-output: ))) )6( + )3652( + 8134 - 6243( + 648 - )1551( * 86( * 6 * 8( / 8871
-input: ./testcases/71.in
-output: ) 7813( / 4892
-input: ./testcases/72.in
-output: ) )5484 / 5891 - 4903 - 3 + 8964( + 2(
-input: ./testcases/73.in
-output: ) )4523( / 9063 / 1( * 2 / )1391( / 6 - 6233
-input: ./testcases/74.in
-output: )0182( * 1831 - 5303 + )408( - )4 - 86( - 1894 * 4293
-input: ./testcases/75.in
-output: )) 6( + 3 * 7042(
-input: ./testcases/76.in
-output: ) 7914 + 6( * 3073 * 9 + 0203 + )5753( / )556 * )2001( - 052( + 6701
-input: ./testcases/77.in
-output: )) 3021( / 726 / 691( * )2004( * 3713 - 538 - )1512(
 input: ./testcases/78.in
 output: ) )3512( - 0304( + )4701(
-input: ./testcases/79.in
-output: )) 0( * 0471( / 968 + )1712( + )3( + 104 - )9423(
-input: ./testcases/8.in
-output: 2 / 4
-input: ./testcases/80.in
-output: ) )955 + )0544( + 7591( * 8161( + )4162( / )7961 * 1(
-input: ./testcases/81.in
-output: )5( - 2262 + )57 + 7464( * 5212 / )3661( * 8854 + 3911 - 4123 / 9
-input: ./testcases/82.in
-output: )7191( * 3593 - 0171 / )9793 + 124(
-input: ./testcases/83.in
-output: ) )7052 * )5553( - 2982( - )3512( + 7212( - 4173
 input: ./testcases/84.in
 output: ))) )0772( + 1882( + 8504( - 7704( + 2304
-input: ./testcases/85.in
-output: ) 3( + 0113 - )2 - 1( - )0714( - 3264 / )081( - )4( + )148( - )1022(
-input: ./testcases/86.in
-output: 3 / 781 * )506(
+input: ./testcases/65.in
+output: ) 4( * )1( * 9 / 5452 * )4331( - )391( + 3502
+input: ./testcases/60.in
+output: ))) 1( - 6( / 182( - 1671 + )214 + 6111(
+input: ./testcases/17.in
+output: ) 3244(
+input: ./testcases/68.in
+output: 1 - )6( + 39 / 2944
 input: ./testcases/87.in
 output: )) )1984( / 9164( - )3( / 5283( + 4601 / 3903 - 6971 / 4
-input: ./testcases/88.in
-output: )1034(
+input: ./testcases/39.in
+output: ) )4244 / 0( - 4531( - )9( - 0992
+input: ./testcases/24.in
+output: ))) 2( / 4601( + 8121 + 6391 * 4164 * 6664 / 1( - )9184( / 6412
+input: ./testcases/48.in
+output: )) 0162 / 9894( - )639( + )7311( + )1441( - 0( * )66(
+input: ./testcases/47.in
+output: )) 2( - 2521(
+input: ./testcases/12.in
+output: )3 + 5( * 2 - 3 * )2 + 1(
+input: ./testcases/44.in
+output: 3 + 8044 / 4793
+input: ./testcases/16.in
+output: )426( / 4683
+input: ./testcases/70.in
+output: ))) )6( + )3652( + 8134 - 6243( + 648 - )1551( * 86( * 6 * 8( / 8871
+input: ./testcases/27.in
+output: 3442 - )5703( - )5511 - 6382 + 2952 * 4( + )9303 + 0893(
 input: ./testcases/89.in
 output: ) 7 / )0 - 8( - 9( / )8723( - )7801( / 2 / 2 / )6( - 7541
-input: ./testcases/9.in
-output: 3 / 8
+input: ./testcases/33.in
+output: )) 4633 - 6312( * 1 + )6( * 1124(
 input: ./testcases/90.in
 output: 8113 + 5252 * )1312( + 6 + )8 - 9681 + 2283(
-input: ./testcases/91.in
-output: )4863( / 5113
+input: ./testcases/28.in
+output: 0 - )557( / 1814 - )4554( / )0571 * 6302( - )2051( - )7664( + )5894 / 2(
+input: ./testcases/64.in
+output: 3 * )8002( * )5( / )6981(
+input: ./testcases/55.in
+output: )676( / 3 * 7161 / )4721( - 1 + )78( / )8(
+input: ./testcases/8.in
+output: 2 / 4
 input: ./testcases/92.in
 output: ) )2( - 4553 / 7( / 0713 + 3762 / 2133 * 7513 + 7942
-input: ./testcases/93.in
-output: ) 0( * )6 + 8143( + )7263( - 7381 / 276 / 5921 / 6
+input: ./testcases/83.in
+output: ) )7052 * )5553( - 2982( - )3512( + 7212( - 4173
+input: ./testcases/19.in
+output: )0654(
+input: ./testcases/5.in
+output: 2 - 2 + 1 - 2 + 2 + 1
+input: ./testcases/38.in
+output: )) )126( * 2843( - )8852( + 2163(
 input: ./testcases/94.in
 output: )) )3043( / 2373( + 631( * 8 / 1
-input: ./testcases/95.in
-output: )) 417 / )8( + 9( / 7321(
-input: ./testcases/96.in
-output: )7( / )6( - 2 + )9(
-input: ./testcases/97.in
-output: 7 + 6591 / 3543 / 6 + 4 * )862( + 828 - )6 - 392(
+input: ./testcases/53.in
+output: ) 0234 + )4( * )218( - 9493( + )174( / 8 + 0673 + )475( / 985 + )7251(
+input: ./testcases/4.in
+output: 6 / 21 - 3 * 2
+input: ./testcases/41.in
+output: )496 * )2( + 0673 - )4 - 113( * 2821( + 8
+input: ./testcases/26.in
+output: )7(
+input: ./testcases/57.in
+output: ) 6( - 7703 / )3223 * )9112( * 861( * )9061 / )589( / 942 - )6411( / 91(
+input: ./testcases/21.in
+output: )8 - )5854( * )8( * 5( / )771(
+input: ./testcases/50.in
+output: )9( + 6 - 938 + 7444 * )5 / 4893( * )7062( * )5762(
 input: ./testcases/98.in
 output: 0561
-input: ./testcases/99.in
-output: )) )4( / 5271( + 2871( - 3 / 3 - 0954 - )2( + 9842 * )9(
+input: ./testcases/58.in
+output: 5404 / )8694 - )2( / 187( - 7 - 9262 * 8804 + 8762 + 024
+input: ./testcases/63.in
+output: 7 + 7902 + 4232 * )8882 * 2254 * 012( + )5392(
+input: ./testcases/80.in
+output: ) )955 + )0544( + 7591( * 8161( + )4162( / )7961 * 1(
+input: ./testcases/31.in
+output: ) )565( - )743( - )0( - 0373( - )1454( + 7 + 2
+input: ./testcases/51.in
+output: 3772
+input: ./testcases/6.in
+output: 5 - 2 + ) 2 - 9 ( + 2 + 1
+input: ./testcases/20.in
+output: )1044( * )1402(
+input: ./testcases/9.in
+output: 3 / 8
+input: ./testcases/43.in
+output: )) )4122( - )2164( / 8773( / 1411 - 4 * 1842 + )0 * 7( - 0(
+input: ./testcases/74.in
+output: )0182( * 1831 - 5303 + )408( - )4 - 86( - 1894 * 4293
+input: ./testcases/56.in
+output: ) 5 * 9322 - 2021( / 9
+input: ./testcases/82.in
+output: )7191( * 3593 - 0171 / )9793 + 124(
+input: ./testcases/77.in
+output: )) 3021( / 726 / 691( * )2004( * 3713 - 538 - )1512(

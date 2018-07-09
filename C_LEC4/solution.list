@@ -83,9 +83,9 @@ output: 3
 input: ./testcases/71.in
 output: 0
 input: ./testcases/69.in
-output: 
+output: 8418
 input: ./testcases/79.in
-output: 
+output: 5022
 input: ./testcases/25.in
 output: 160675781
 input: ./testcases/45.in

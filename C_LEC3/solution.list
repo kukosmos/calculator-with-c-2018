@@ -83,9 +83,9 @@ output: 1 2 +
 input: ./testcases/71.in
 output: 2984 3187 /
 input: ./testcases/69.in
-output: 2329 1277 - 4373 0 / + 2509 + 2671 +
+output: 2329 1277 - 4373 2 / + 2509 + 2671 +
 input: ./testcases/79.in
-output: 3249 401 - 3 + 2171 + 869 1740 0 * / +
+output: 3249 401 - 3 + 2171 + 869 1740 2 * / +
 input: ./testcases/25.in
 output: 1261 3145 1473 - 782 4892 * 42 * + +
 input: ./testcases/45.in
