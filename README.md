@@ -26,5 +26,3 @@ $ python test.py -h
 스택을 활용하여 후위표기식 만들기
 ## [C Lecture 4](C_LEC4)
 후위표기식을 계산하기
-## [C Lecture 5](C_LEC5)
-트리를 만들고 계산하기
