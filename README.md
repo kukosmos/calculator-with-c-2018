@@ -1,5 +1,5 @@
 # Submit Repository for Engineering Calculator 2018
-2018 공학용계산기 과제 제출
+2018 공학용계산기 과제
 
 ## Testcases
 testcases 폴더에 있는 .in 파일을 모두 읽어서 실행해보면 됩니다. 실행 결과는 각 LEC 폴더에 solution.list 파일에 저장 되어 있습니다.
